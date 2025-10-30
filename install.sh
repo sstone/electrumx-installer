@@ -10,8 +10,8 @@ UPDATE_ONLY=0
 UPDATE_PYTHON=0
 VERBOSE=0
 USE_ROCKSDB=1
-ELECTRUMX_GIT_URL="https://github.com/spesmilo/electrumx"
-ELECTRUMX_GIT_BRANCH=""
+ELECTRUMX_GIT_URL="https://github.com/ACINQ/electrumx"
+ELECTRUMX_GIT_BRANCH="1.15.0.fixscript"
 
 installer=$(realpath $0)
 
